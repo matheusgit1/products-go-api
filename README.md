@@ -56,12 +56,6 @@ Go lang, Docker, sql, MySql
 
 Use o arquivo api.http para execução das rotas no vscode.
 
-## Arquitetura implementada
-
-antes de publicarmos o tópico sns, o json é validado com um schema armazenado no dynamoDb como descrito na Arquitetura
-
-![Arquitetura](https://github.com/matheusgit1/products-go-api/blob/main/assets/Captura%20de%20tela%202024-01-31%20163051.png)
-
 ## Sobre o Autor
 
 Eu sou uma pessoa desenvolvedora full-stack, técnico em administração, engenheiro de automação em formação, e cientista de dados em formação. Sempre busco por excelência e entregar o máximo com a maior qualidade, sem claro, deixar de lado boas práticas.
