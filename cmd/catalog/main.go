@@ -6,8 +6,8 @@ import (
 	"net/http"
 
 	"https://github.com/matheusgit1/products-go-api/internal/database"
-	"https://github.com/matheusgit1/products-go-apiservice"
-	"https://github.com/matheusgit1/products-go-apiwebserver"
+	"https://github.com/matheusgit1/products-go-api/internal/service"
+	"https://github.com/matheusgit1/products-go-api/internal/webserver"
 	"github.com/go-chi/chi/middleware"
 	"github.com/go-chi/chi/v5"
 	_ "github.com/go-sql-driver/mysql"
